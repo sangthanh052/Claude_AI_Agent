@@ -1,0 +1,11 @@
+anthropic
+pydantic
+pydantic-ai
+langgraph
+logfire
+python-dotenv
+fastapi
+uvicorn
+httpx
+starlette
+jinja2
